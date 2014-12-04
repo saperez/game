@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.5">
+  <sounds />
+  <images>
+    <image name="reddd">
+      <file name="reddd.png" size="302" />
+    </image>
+    <image name="r to rerty">
+      <file name="r to rerty.PNG" size="137518" />
+    </image>
+    <image name="u win!">
+      <file name="u win!.png" size="53993" />
+    </image>
+    <image name="r restart">
+      <file name="r restart.png" size="14754" />
+    </image>
+    <image name="find g zuz">
+      <file name="find g zuz.png" size="6653" />
+    </image>
+    <image name="MAIN SCREEN">
+      <file name="MAIN SCREEN.png" size="8260" />
+    </image>
+  </images>
+  <behaviors />
+</assets>
